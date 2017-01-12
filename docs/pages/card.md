@@ -48,7 +48,7 @@ UIkit includes a number of modifiers that can be used to add a specific style to
 ```
 
 ```example
-<div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+<div class="uk-child-width-1-3@m uk-grid-small uk-grid-match uk-grid">
     <div>
         <div class="uk-card uk-card-default uk-card-body">
             <h3 class="uk-panel-title">Default</h3>
